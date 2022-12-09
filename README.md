@@ -25,5 +25,5 @@
 (*trial_premium* – пробная премиум-подписка, *premium_no_trial* – премиум-подписка без пробной, *coins* – подписка за внутреннюю валюту, *other_type* – другое) 
 
 ---
-> Решение данного проекта представлено в формате документа [AAB_test.ipynb](https://github.com/Koldim2001/Final_project_Analyst/blob/main/AAB_test.ipynb)
+> Решение данного проекта представлено в формате документа [AAB_test.ipynb](https://github.com/Koldim2001/Binary_classification_of_users/blob/main/ML_program.ipynb)
 >
